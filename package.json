@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@puppeteer/browsers": "^2.10.6",
+    "chrome-aws-lambda": "~6.0.0",
+    "chromium": "^3.0.3",
+    "dayjs": "^1.11.13",
+    "dotenv": "^17.2.0",
+    "get-port": "^7.1.0",
+    "node-fetch": "^2.7.0",
+    "playwright-firefox": "^1.54.1",
+    "puppeteer-core": "^6.0.0",
+    "sqlite3": "^5.1.7"
+  }
+}
